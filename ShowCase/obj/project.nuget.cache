@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rMJnyUqZUQM=",
+  "dgSpecHash": "w0rwi/UC1kk=",
   "success": true,
   "projectFilePath": "C:\\Users\\16479\\Desktop\\Lab#4_COMP367\\ClassLibraryProjects\\ShowCase\\ShowCase.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\16479\\.nuget\\packages\\stringlibrary\\1.0.0\\stringlibrary.1.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
