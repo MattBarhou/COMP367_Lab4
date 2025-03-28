@@ -1,0 +1,11 @@
+C:\Users\16479\Desktop\Lab#4_COMP367\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.deps.json
+C:\Users\16479\Desktop\Lab#4_COMP367\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.dll
+C:\Users\16479\Desktop\Lab#4_COMP367\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.pdb
+C:\Users\16479\Desktop\Lab#4_COMP367\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16479\Desktop\Lab#4_COMP367\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\16479\Desktop\Lab#4_COMP367\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfo.cs
+C:\Users\16479\Desktop\Lab#4_COMP367\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\16479\Desktop\Lab#4_COMP367\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.dll
+C:\Users\16479\Desktop\Lab#4_COMP367\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\refint\StringLibrary.dll
+C:\Users\16479\Desktop\Lab#4_COMP367\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.pdb
+C:\Users\16479\Desktop\Lab#4_COMP367\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\ref\StringLibrary.dll
