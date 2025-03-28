@@ -32,7 +32,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
       "projectUniqueName": "C:\\Users\\16479\\Desktop\\Lab#4_COMP367\\ClassLibraryProjects\\ShowCase\\ShowCase.csproj",
       "projectName": "ShowCase",
