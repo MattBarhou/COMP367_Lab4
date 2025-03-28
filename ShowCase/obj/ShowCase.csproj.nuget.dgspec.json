@@ -27,7 +27,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Lab4-Barhou/COMP_367_Lab4/_packaging/StringExtensionsFeed/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -97,7 +98,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Lab4-Barhou/COMP_367_Lab4/_packaging/StringExtensionsFeed/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {

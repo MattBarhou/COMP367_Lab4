@@ -7,6 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLibrary", "StringLibr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowCase", "ShowCase\ShowCase.csproj", "{F0EEEF01-123E-4E2F-9A05-72D24B667EAD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A48DAD18-1A4D-4CB5-811A-AF1ECD2B8F5C}"
+	ProjectSection(SolutionItems) = preProject
+		azure-pipelines.yml = azure-pipelines.yml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestStringLibraryExtension", "TestStringLibraryExtension\TestStringLibraryExtension.csproj", "{5E418CC3-790F-4EAE-8977-489397B2757C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +28,10 @@ Global
 		{F0EEEF01-123E-4E2F-9A05-72D24B667EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0EEEF01-123E-4E2F-9A05-72D24B667EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0EEEF01-123E-4E2F-9A05-72D24B667EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E418CC3-790F-4EAE-8977-489397B2757C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E418CC3-790F-4EAE-8977-489397B2757C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E418CC3-790F-4EAE-8977-489397B2757C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E418CC3-790F-4EAE-8977-489397B2757C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
